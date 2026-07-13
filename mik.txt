@@ -2,4 +2,8 @@ Casao Kim Loyd
 
 
 
+<<<<<<< HEAD
 July 13
+=======
+bago itop
+>>>>>>> sample
